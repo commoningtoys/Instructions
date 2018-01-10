@@ -1,5 +1,5 @@
 # Instructions
-## How to work on this repositories
+## How to work on the repositories
 
 0. I assume that all of us is working on mac therefore I will only refer to the mac environment.
 1. You will need to install git on your computer, you can find an explanation on how to do it [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
